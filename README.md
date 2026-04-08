@@ -33,6 +33,6 @@ An AI-powered Smart Delivery & Logistics System built using Streamlit, Python, a
 ## 🚀 How to Run
 
 ### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/SmartLogistics-AI.git
-cd SmartLogistics-AI
+
+## 🌐 Live Demo
+Check out the live application here: [SmartLogistics AI Pro](https://ai-delivery-tracking-system-bmnstwwupuwrmmrhsxwg2f.streamlit.app/)
